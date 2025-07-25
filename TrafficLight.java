@@ -46,6 +46,7 @@ orange_c = Color.orange;
 }
 repaint();
 }
+  
 public void paintComponent(Graphics g){
 super.paintComponent(g);
 g.drawOval(50,50,50,50);
